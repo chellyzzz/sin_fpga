@@ -1,6 +1,5 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"E:/MATLAB/bin/sin_table_test.v" \
 "../../../../dac_sim.srcs/sim_1/new/sim_sin.v" \
 
 # compile glbl module

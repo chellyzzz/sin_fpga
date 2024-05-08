@@ -6,18 +6,4 @@ Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
 Completed static elaboration
-Starting simulation data flow analysis
-WARNING: [XSIM 43-4099] "E:/MATLAB/bin/sin_table_test.v" Line 1. Module digital_io doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "E:/MATLAB/bin/sin_table_test.v" Line 50. Module sin_table doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "E:/MATLAB/bin/sin_table_test.v" Line 1084. Module step_table doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "E:/MATLAB/bin/sin_table_test.v" Line 1. Module digital_io doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "E:/MATLAB/bin/sin_table_test.v" Line 50. Module sin_table doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "E:/MATLAB/bin/sin_table_test.v" Line 1084. Module step_table doesn't have a timescale but at least one module in design has a timescale.
-Completed simulation data flow analysis
-Time Resolution for simulation is 1ps
-Compiling module xil_defaultlib.sin_table
-Compiling module xil_defaultlib.step_table
-Compiling module xil_defaultlib.digital_io
-Compiling module xil_defaultlib.sin_table_testbench
-Compiling module xil_defaultlib.glbl
-Built simulation snapshot sin_table_testbench_behav
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

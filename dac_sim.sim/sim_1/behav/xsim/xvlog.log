@@ -1,7 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/MATLAB/bin/sin_table_test.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module digital_io
-WARNING: [VRFC 10-3380] identifier 'out_en' is used before its declaration [E:/MATLAB/bin/sin_table_test.v:19]
-INFO: [VRFC 10-311] analyzing module sin_table
-INFO: [VRFC 10-311] analyzing module step_table
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/27957/dac_sim/dac_sim.srcs/sim_1/new/sim_sin.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module sin_table_testbench
